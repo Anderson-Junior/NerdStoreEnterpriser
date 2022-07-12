@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+WwpzqrNHCVt8Fnjy6teEdExmbuFO++2noc+7SXSolqZ1DjQdloKEm6F6cgbgBwMvik2zqlmFUhwvQJY4v+fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anderson.lemos\\Desktop\\Estudos\\NerdStoreEnterpriser\\src\\services\\NSE.Catalago.Api\\NSE.Catalago.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anderson.lemos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
